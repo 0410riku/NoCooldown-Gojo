@@ -1,0 +1,2 @@
+# NoCooldown-Gojo
+script
